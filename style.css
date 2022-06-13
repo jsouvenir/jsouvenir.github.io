@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+
+* {
+    font-family: 'Yatra One', cursive;
+}
+
+html {
+    background-image: url(pics/DNDBACKGROUND.png);
+    background-size: cover;
+}
+
+header {
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+}
+
+.container {
+    margin: 10px auto;
+    width: 60%;
+    padding: 8px;
+}
+
+img {
+    float: left;
+    width: 300px;
+    height: 360px;
+    padding: 0 10px 0 0;
+}
+
+.container h4 {
+    text-align: left;
+    font-family: 'Yatra One', cursive;
+}
+
+.spells h1 {
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+}
+
+.spells img {
+    float: right;
+}
+
+.spells {
+    margin: 10px auto;
+    width: 60%;
+    padding: 8px;
+}
+
+#title {
+    font-size: 20px;
+    font-style: italic;
+}
+
+#level {
+    font-size: 30px;
+}
